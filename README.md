@@ -37,6 +37,9 @@ A "delete all" feature is not yet added for msb param entries.
 A rename feature is not yet added for msb param entries.  
 A version edit feature is not yet added for msb param files.  
 
+Config options for splitter distances are not yet added.  
+This is minor and may be added later.  
+
 There may be other limitations not yet listed.
 
 # Building
