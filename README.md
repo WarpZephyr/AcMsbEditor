@@ -30,6 +30,13 @@ This may be added later, it would take more mapping.
 The ability to create new msb param entries is slow due to UI difficulties.  
 Currently a few prefab windows popup dialogs will show for it.  
 
+A "save all" and "close all" feature is not yet added to the UI.  
+This is minor and may be added later.  
+
+A "delete all" feature is not yet added for msb param entries.  
+A rename feature is not yet added for msb param entries.  
+A version edit feature is not yet added for msb param files.  
+
 There may be other limitations not yet listed.
 
 # Building
