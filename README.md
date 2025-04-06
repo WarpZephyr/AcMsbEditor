@@ -49,5 +49,4 @@ Place them in the same top-level folder as this project.
 git clone https://github.com/soulsmods/SoulsFormatsNEXT.git
 ```
 
-Dependencies are subject to change.  
-For SoulsFormatsNEXT currently the ac4_msb_1 branch is being used until merged into master.
+Dependencies are subject to change.
