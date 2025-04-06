@@ -1,10 +1,10 @@
-﻿using System.Text.Json.Serialization;
-using System.Text.Json;
-using System.IO;
-using System;
+﻿using ACMsbEditor.Binding.Msb;
 using ACMsbEditor.Logging;
-using ACMsbEditor.Binding.Msb;
+using System;
+using System.IO;
 using System.Reflection;
+using System.Text.Json;
+using System.Text.Json.Serialization;
 
 namespace ACMsbEditor
 {
